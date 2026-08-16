@@ -97,13 +97,13 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 #### Uses of JSON-RPC
 
-* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,258 | 🐛 305 | 🌐 C++ | 📅 2026-07-23 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
-* [Monero](https://github.com/monero-project/monero) ⭐ 10,778 | 🐛 701 | 🌐 C++ | 📅 2026-08-14 - the secure, private, untraceable cryptocurrency.
+* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,258 | 🐛 304 | 🌐 C++ | 📅 2026-08-15 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
+* [Monero](https://github.com/monero-project/monero) ⭐ 10,781 | 🐛 696 | 🌐 C++ | 📅 2026-08-16 - the secure, private, untraceable cryptocurrency.
 * [Zcash](https://github.com/zcash/zcash) ⚠️ Archived - Zcash is a cryptocurrency aimed at using cryptography to provide enhanced privacy for its users compared to other cryptocurrencies such as Bitcoin.
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived - A permissioned implementation of Ethereum supporting data privacy.
 * [Litecoin](https://github.com/litecoin-project/litecoin) ⭐ 4,597 | 🐛 104 | 🌐 C++ | 📅 2026-08-14 - Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware.
-* [Dash](https://github.com/dashpay/dash) ⭐ 1,540 | 🐛 244 | 🌐 C++ | 📅 2026-08-15 - Dash is Digital Cash You Can Spend Anywhere.
-* [Microsoft SQL Tools Service](https://github.com/Microsoft/sqltoolsservice/) ⭐ 505 | 🐛 76 | 🌐 C# | 📅 2026-08-15 - SQL Query and Management over JSON-RPC.
+* [Dash](https://github.com/dashpay/dash) ⭐ 1,540 | 🐛 243 | 🌐 C++ | 📅 2026-08-16 - Dash is Digital Cash You Can Spend Anywhere.
+* [Microsoft SQL Tools Service](https://github.com/Microsoft/sqltoolsservice/) ⭐ 505 | 🐛 76 | 🌐 C# | 📅 2026-08-16 - SQL Query and Management over JSON-RPC.
 * [Tarantool](https://github.com/tarantool/nginx_upstream_module) ⭐ 173 | 🐛 29 | 🌐 C | 📅 2021-03-02 - Get your data in RAM. Get compute close to data. Enjoy the performance. (Provides nginx upstream module to support JSON-RPC)
 * [Ethereum Classic](https://github.com/ethereumproject/wiki/wiki/JSON-RPC) ⚠️ Archived - Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality that was a result of the DAO fork.
 * [Arm mbed IoT Platform](https://cloud.mbed.com/docs/current/connecting/json-rpc.html#protocol-translator-register) - Arm Mbed OS together with the Pelion IoT Platform provide a transformative device-to-data platform for connected IoT that empowers an intelligent enterprise.
@@ -122,4 +122,4 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
