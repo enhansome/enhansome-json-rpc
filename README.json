@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryptocurrencies to expose APIs. It is a very simple protocol, defining only a few data types and commands. JSON-RPC allows for notifications (data sent to the server that does not require a response) and for multiple calls to be sent to the server which may be answered out of order.",
-      "items": [],
-      "title": "What is JSON-RPC?"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -20,6 +15,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 3089420,
                 "language": "JavaScript",
                 "last_commit": "2025-12-22T09:24:20Z",
                 "owner": "tedeh",
@@ -34,6 +30,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 77954270,
                 "language": "JavaScript",
                 "last_commit": "2022-05-27T18:26:03Z",
                 "owner": "bigstepinc",
@@ -53,6 +50,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 166583034,
                     "language": "JavaScript",
                     "last_commit": "2024-06-18T02:31:45Z",
                     "owner": "koorchik",
@@ -67,6 +65,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 160591613,
                     "language": "JavaScript",
                     "last_commit": "2024-11-19T10:39:56Z",
                     "owner": "koorchik",
@@ -81,6 +80,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 168966007,
                     "language": "JavaScript",
                     "last_commit": "2023-01-09T17:14:13Z",
                     "owner": "koorchik",
@@ -95,6 +95,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "id": 160591760,
                     "language": "JavaScript",
                     "last_commit": "2022-11-26T19:29:04Z",
                     "owner": "koorchik",
@@ -105,6 +106,7 @@
               ],
               "repo_info": {
                 "archived": false,
+                "id": 159377029,
                 "language": "JavaScript",
                 "last_commit": "2024-04-11T08:48:52Z",
                 "owner": "koorchik",
@@ -119,6 +121,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 121006538,
                 "language": "TypeScript",
                 "last_commit": "2026-06-29T21:53:54Z",
                 "owner": "rse",
@@ -133,6 +136,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 149678162,
                 "language": "TypeScript",
                 "last_commit": "2020-05-03T20:36:01Z",
                 "owner": "statianzo",
@@ -154,6 +158,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 45905880,
                 "language": "Swift",
                 "last_commit": "2020-08-29T22:18:28Z",
                 "owner": "bricklife",
@@ -175,11 +180,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 70068232,
                 "language": "C#",
-                "last_commit": "2026-08-17T20:28:45Z",
+                "last_commit": "2026-08-19T00:03:47Z",
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
-                "stars": 934
+                "stars": 935
               }
             },
             {
@@ -189,6 +195,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 17465376,
                 "language": "C#",
                 "last_commit": "2024-03-12T23:50:57Z",
                 "owner": "Astn",
@@ -203,6 +210,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 40449676,
                 "language": "C#",
                 "last_commit": "2025-03-18T21:04:20Z",
                 "owner": "edjCase",
@@ -224,6 +232,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 123437311,
                 "language": "Nim",
                 "last_commit": "2026-08-17T16:41:07Z",
                 "owner": "status-im",
@@ -245,6 +254,7 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "id": 37093171,
                 "language": "Go",
                 "last_commit": "2022-05-12T17:25:51Z",
                 "owner": "hyperledger-archives",
@@ -259,6 +269,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 72210430,
                 "language": "Go",
                 "last_commit": "2025-03-28T05:49:58Z",
                 "owner": "osamingo",
@@ -280,6 +291,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 13211363,
                 "language": "Python",
                 "last_commit": "2025-03-17T08:11:01Z",
                 "owner": "pavlov99",
@@ -301,6 +313,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 2053866,
                 "language": "PHP",
                 "last_commit": "2026-04-18T11:42:43Z",
                 "owner": "MollsReis",
@@ -322,6 +335,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 135180908,
                 "language": "C",
                 "last_commit": "2025-03-05T18:00:57Z",
                 "owner": "cesanta",
@@ -343,6 +357,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 1861430,
                 "language": "Ruby",
                 "last_commit": "2011-07-27T14:11:39Z",
                 "owner": "helios-technologies",
@@ -356,237 +371,255 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "open-rpc/spec",
-          "description": "Specification for OpenRPC",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-25T21:46:16Z",
-            "owner": "open-rpc",
-            "repo": "spec",
-            "stars": 215
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "open-rpc/generator-client",
-          "description": "Mono repo for the client generators for each target language",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-10-22T05:54:14Z",
-            "owner": "open-rpc",
-            "repo": "generator",
-            "stars": 98
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "open-rpc/examples",
-          "description": "Collection of example open-rpc documents",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-11-18T17:44:29Z",
-            "owner": "open-rpc",
-            "repo": "examples",
-            "stars": 57
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "open-rpc/meta-schema",
-          "description": "JSON Schema file representing the open-rpc specification.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-04T05:38:25Z",
-            "owner": "open-rpc",
-            "repo": "meta-schema",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "open-rpc/editor-extensions-vscode",
-          "description": "A vscode extension to provide validation and auto-completion for open-rpc documents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-12-08T13:27:24Z",
-            "owner": "open-rpc",
-            "repo": "editor-extensions-vscode",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "open-rpc/docs-react",
-          "description": "OpenRPC documentation as a react component.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2021-08-03T19:20:36Z",
-            "owner": "open-rpc",
-            "repo": "docs-react",
-            "stars": 10
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "open-rpc/spec",
+              "description": "Specification for OpenRPC",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162487464,
+                "language": "TypeScript",
+                "last_commit": "2026-02-25T21:46:16Z",
+                "owner": "open-rpc",
+                "repo": "spec",
+                "stars": 215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open-rpc/generator-client",
+              "description": "Mono repo for the client generators for each target language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 167082716,
+                "language": "TypeScript",
+                "last_commit": "2025-10-22T05:54:14Z",
+                "owner": "open-rpc",
+                "repo": "generator",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open-rpc/examples",
+              "description": "Collection of example open-rpc documents",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162646467,
+                "language": "TypeScript",
+                "last_commit": "2025-11-18T17:44:29Z",
+                "owner": "open-rpc",
+                "repo": "examples",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open-rpc/meta-schema",
+              "description": "JSON Schema file representing the open-rpc specification.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162643588,
+                "language": "Go",
+                "last_commit": "2026-02-04T05:38:25Z",
+                "owner": "open-rpc",
+                "repo": "meta-schema",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open-rpc/editor-extensions-vscode",
+              "description": "A vscode extension to provide validation and auto-completion for open-rpc documents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171068171,
+                "language": "TypeScript",
+                "last_commit": "2022-12-08T13:27:24Z",
+                "owner": "open-rpc",
+                "repo": "editor-extensions-vscode",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "open-rpc/docs-react",
+              "description": "OpenRPC documentation as a react component.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 176998277,
+                "language": "TypeScript",
+                "last_commit": "2021-08-03T19:20:36Z",
+                "owner": "open-rpc",
+                "repo": "docs-react",
+                "stars": 10
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Dogecoin",
+                  "description": "Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the \"Doge\" Internet meme as its logo.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14981376,
+                    "language": "C++",
+                    "last_commit": "2026-08-15T21:17:47Z",
+                    "owner": "dogecoin",
+                    "repo": "dogecoin",
+                    "stars": 15256
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Monero",
+                  "description": "the secure, private, untraceable cryptocurrency.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19316619,
+                    "language": "C++",
+                    "last_commit": "2026-08-19T11:24:22Z",
+                    "owner": "monero-project",
+                    "repo": "monero",
+                    "stars": 10781
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Zcash",
+                  "description": "Zcash is a cryptocurrency aimed at using cryptography to provide enhanced privacy for its users compared to other cryptocurrencies such as Bitcoin.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 26987049,
+                    "language": "C++",
+                    "last_commit": "2026-07-19T15:11:43Z",
+                    "owner": "zcash",
+                    "repo": "zcash",
+                    "stars": 5485
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Quorum",
+                  "description": "A permissioned implementation of Ethereum supporting data privacy.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 73670742,
+                    "language": "Go",
+                    "last_commit": "2026-06-05T02:27:13Z",
+                    "owner": "Consensys",
+                    "repo": "quorum",
+                    "stars": 4764
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Litecoin",
+                  "description": "Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4646198,
+                    "language": "C++",
+                    "last_commit": "2026-08-14T16:16:55Z",
+                    "owner": "litecoin-project",
+                    "repo": "litecoin",
+                    "stars": 4599
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Dash",
+                  "description": "Dash is Digital Cash You Can Spend Anywhere.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 19352450,
+                    "language": "C++",
+                    "last_commit": "2026-08-18T14:42:48Z",
+                    "owner": "dashpay",
+                    "repo": "dash",
+                    "stars": 1540
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Microsoft SQL Tools Service",
+                  "description": "SQL Query and Management over JSON-RPC.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 63441273,
+                    "language": "C#",
+                    "last_commit": "2026-08-19T00:07:57Z",
+                    "owner": "microsoft",
+                    "repo": "sqltoolsservice",
+                    "stars": 506
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Tarantool",
+                  "description": "Get your data in RAM. Get compute close to data. Enjoy the performance. (Provides nginx upstream module to support JSON-RPC)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 34047258,
+                    "language": "C",
+                    "last_commit": "2021-03-02T19:22:36Z",
+                    "owner": "tarantool",
+                    "repo": "nginx_upstream_module",
+                    "stars": 173
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Ethereum Classic",
+                  "description": "Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality that was a result of the DAO fork.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 66734238,
+                    "language": null,
+                    "last_commit": "2018-02-14T13:02:17Z",
+                    "owner": "ethereumproject",
+                    "repo": "wiki",
+                    "stars": 10
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Uses of JSON-RPC"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interface Description"
         }
       ],
-      "title": "Interface Description"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dogecoin",
-          "description": "Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the \"Doge\" Internet meme as its logo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-15T21:17:47Z",
-            "owner": "dogecoin",
-            "repo": "dogecoin",
-            "stars": 15257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Monero",
-          "description": "the secure, private, untraceable cryptocurrency.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-17T17:31:01Z",
-            "owner": "monero-project",
-            "repo": "monero",
-            "stars": 10779
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zcash",
-          "description": "Zcash is a cryptocurrency aimed at using cryptography to provide enhanced privacy for its users compared to other cryptocurrencies such as Bitcoin.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2026-07-19T15:11:43Z",
-            "owner": "zcash",
-            "repo": "zcash",
-            "stars": 5485
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quorum",
-          "description": "A permissioned implementation of Ethereum supporting data privacy.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2026-06-05T02:27:13Z",
-            "owner": "Consensys",
-            "repo": "quorum",
-            "stars": 4764
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Litecoin",
-          "description": "Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-14T16:16:55Z",
-            "owner": "litecoin-project",
-            "repo": "litecoin",
-            "stars": 4599
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dash",
-          "description": "Dash is Digital Cash You Can Spend Anywhere.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T14:42:48Z",
-            "owner": "dashpay",
-            "repo": "dash",
-            "stars": 1540
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Microsoft SQL Tools Service",
-          "description": "SQL Query and Management over JSON-RPC.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T01:23:18Z",
-            "owner": "microsoft",
-            "repo": "sqltoolsservice",
-            "stars": 506
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tarantool",
-          "description": "Get your data in RAM. Get compute close to data. Enjoy the performance. (Provides nginx upstream module to support JSON-RPC)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-03-02T19:22:36Z",
-            "owner": "tarantool",
-            "repo": "nginx_upstream_module",
-            "stars": 173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ethereum Classic",
-          "description": "Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality that was a result of the DAO fork.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2018-02-14T13:02:17Z",
-            "owner": "ethereumproject",
-            "repo": "wiki",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ethereum",
-          "description": "Ethereum is an open-source, public, blockchain-based distributed computing platform and operating system featuring smart contract (scripting) functionality.",
-          "children": []
-        }
-      ],
-      "title": "Uses of JSON-RPC"
+      "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:01:53.807Z",
+    "last_updated": "2026-08-19T12:34:35.655Z",
     "original_repository": "shanejonas/awesome-json-rpc",
+    "original_repository_id": 171582079,
     "original_repository_sha": "73f1b960a66d9110ee589f71be977529c5a523e9",
     "enhanced_repository": "enhansome/enhansome-json-rpc",
     "enhanced_repository_description": null,
