@@ -182,7 +182,7 @@
                 "archived": false,
                 "id": 70068232,
                 "language": "C#",
-                "last_commit": "2026-08-19T00:03:47Z",
+                "last_commit": "2026-08-19T20:42:04Z",
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
                 "stars": 935
@@ -234,7 +234,7 @@
                 "archived": false,
                 "id": 123437311,
                 "language": "Nim",
-                "last_commit": "2026-08-17T16:41:07Z",
+                "last_commit": "2026-08-19T15:10:20Z",
                 "owner": "status-im",
                 "repo": "nim-json-rpc",
                 "stars": 101
@@ -479,7 +479,7 @@
                     "last_commit": "2026-08-15T21:17:47Z",
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15256
+                    "stars": 15255
                   }
                 },
                 {
@@ -494,7 +494,7 @@
                     "last_commit": "2026-08-19T11:24:22Z",
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10781
+                    "stars": 10783
                   }
                 },
                 {
@@ -551,10 +551,10 @@
                     "archived": false,
                     "id": 19352450,
                     "language": "C++",
-                    "last_commit": "2026-08-18T14:42:48Z",
+                    "last_commit": "2026-08-19T18:45:57Z",
                     "owner": "dashpay",
                     "repo": "dash",
-                    "stars": 1540
+                    "stars": 1541
                   }
                 },
                 {
@@ -566,7 +566,7 @@
                     "archived": false,
                     "id": 63441273,
                     "language": "C#",
-                    "last_commit": "2026-08-19T00:07:57Z",
+                    "last_commit": "2026-08-19T20:58:09Z",
                     "owner": "microsoft",
                     "repo": "sqltoolsservice",
                     "stars": 506
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:34:35.655Z",
+    "last_updated": "2026-08-19T21:05:00.760Z",
     "original_repository": "shanejonas/awesome-json-rpc",
     "original_repository_id": 171582079,
     "original_repository_sha": "73f1b960a66d9110ee589f71be977529c5a523e9",
