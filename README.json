@@ -182,7 +182,7 @@
                 "archived": false,
                 "id": 70068232,
                 "language": "C#",
-                "last_commit": "2026-08-19T20:42:04Z",
+                "last_commit": "2026-08-20T12:43:11Z",
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
                 "stars": 935
@@ -491,10 +491,10 @@
                     "archived": false,
                     "id": 19316619,
                     "language": "C++",
-                    "last_commit": "2026-08-19T11:24:22Z",
+                    "last_commit": "2026-08-20T15:10:16Z",
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10783
+                    "stars": 10785
                   }
                 },
                 {
@@ -509,7 +509,7 @@
                     "last_commit": "2026-07-19T15:11:43Z",
                     "owner": "zcash",
                     "repo": "zcash",
-                    "stars": 5485
+                    "stars": 5484
                   }
                 },
                 {
@@ -551,7 +551,7 @@
                     "archived": false,
                     "id": 19352450,
                     "language": "C++",
-                    "last_commit": "2026-08-19T18:45:57Z",
+                    "last_commit": "2026-08-20T13:51:14Z",
                     "owner": "dashpay",
                     "repo": "dash",
                     "stars": 1541
@@ -566,7 +566,7 @@
                     "archived": false,
                     "id": 63441273,
                     "language": "C#",
-                    "last_commit": "2026-08-19T20:58:09Z",
+                    "last_commit": "2026-08-20T18:35:59Z",
                     "owner": "microsoft",
                     "repo": "sqltoolsservice",
                     "stars": 506
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:05:00.760Z",
+    "last_updated": "2026-08-20T21:06:12.266Z",
     "original_repository": "shanejonas/awesome-json-rpc",
     "original_repository_id": 171582079,
     "original_repository_sha": "73f1b960a66d9110ee589f71be977529c5a523e9",
