@@ -182,7 +182,7 @@
                 "archived": false,
                 "id": 70068232,
                 "language": "C#",
-                "last_commit": "2026-08-20T12:43:11Z",
+                "last_commit": "2026-08-21T20:58:15Z",
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
                 "stars": 935
@@ -479,7 +479,7 @@
                     "last_commit": "2026-08-15T21:17:47Z",
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15255
+                    "stars": 15256
                   }
                 },
                 {
@@ -494,7 +494,7 @@
                     "last_commit": "2026-08-20T15:10:16Z",
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10785
+                    "stars": 10786
                   }
                 },
                 {
@@ -509,7 +509,7 @@
                     "last_commit": "2026-07-19T15:11:43Z",
                     "owner": "zcash",
                     "repo": "zcash",
-                    "stars": 5484
+                    "stars": 5483
                   }
                 },
                 {
@@ -524,7 +524,7 @@
                     "last_commit": "2026-06-05T02:27:13Z",
                     "owner": "Consensys",
                     "repo": "quorum",
-                    "stars": 4764
+                    "stars": 4765
                   }
                 },
                 {
@@ -551,7 +551,7 @@
                     "archived": false,
                     "id": 19352450,
                     "language": "C++",
-                    "last_commit": "2026-08-20T13:51:14Z",
+                    "last_commit": "2026-08-21T17:21:04Z",
                     "owner": "dashpay",
                     "repo": "dash",
                     "stars": 1541
@@ -566,10 +566,10 @@
                     "archived": false,
                     "id": 63441273,
                     "language": "C#",
-                    "last_commit": "2026-08-20T18:35:59Z",
+                    "last_commit": "2026-08-21T20:49:15Z",
                     "owner": "microsoft",
                     "repo": "sqltoolsservice",
-                    "stars": 506
+                    "stars": 507
                   }
                 },
                 {
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:06:12.266Z",
+    "last_updated": "2026-08-21T21:02:14.357Z",
     "original_repository": "shanejonas/awesome-json-rpc",
     "original_repository_id": 171582079,
     "original_repository_sha": "73f1b960a66d9110ee589f71be977529c5a523e9",
