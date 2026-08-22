@@ -182,7 +182,7 @@
                 "archived": false,
                 "id": 70068232,
                 "language": "C#",
-                "last_commit": "2026-08-21T20:58:15Z",
+                "last_commit": "2026-08-22T02:13:24Z",
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
                 "stars": 935
@@ -494,7 +494,7 @@
                     "last_commit": "2026-08-20T15:10:16Z",
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10786
+                    "stars": 10788
                   }
                 },
                 {
@@ -509,7 +509,7 @@
                     "last_commit": "2026-07-19T15:11:43Z",
                     "owner": "zcash",
                     "repo": "zcash",
-                    "stars": 5483
+                    "stars": 5484
                   }
                 },
                 {
@@ -566,7 +566,7 @@
                     "archived": false,
                     "id": 63441273,
                     "language": "C#",
-                    "last_commit": "2026-08-21T20:49:15Z",
+                    "last_commit": "2026-08-22T09:38:47Z",
                     "owner": "microsoft",
                     "repo": "sqltoolsservice",
                     "stars": 507
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:02:14.357Z",
+    "last_updated": "2026-08-22T21:00:59.339Z",
     "original_repository": "shanejonas/awesome-json-rpc",
     "original_repository_id": 171582079,
     "original_repository_sha": "73f1b960a66d9110ee589f71be977529c5a523e9",
