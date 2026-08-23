@@ -479,7 +479,7 @@
                     "last_commit": "2026-08-15T21:17:47Z",
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15256
+                    "stars": 15258
                   }
                 },
                 {
@@ -491,7 +491,7 @@
                     "archived": false,
                     "id": 19316619,
                     "language": "C++",
-                    "last_commit": "2026-08-20T15:10:16Z",
+                    "last_commit": "2026-08-23T20:21:32Z",
                     "owner": "monero-project",
                     "repo": "monero",
                     "stars": 10788
@@ -509,7 +509,7 @@
                     "last_commit": "2026-07-19T15:11:43Z",
                     "owner": "zcash",
                     "repo": "zcash",
-                    "stars": 5484
+                    "stars": 5485
                   }
                 },
                 {
@@ -536,10 +536,10 @@
                     "archived": false,
                     "id": 4646198,
                     "language": "C++",
-                    "last_commit": "2026-08-14T16:16:55Z",
+                    "last_commit": "2026-08-23T01:58:07Z",
                     "owner": "litecoin-project",
                     "repo": "litecoin",
-                    "stars": 4599
+                    "stars": 4600
                   }
                 },
                 {
@@ -551,7 +551,7 @@
                     "archived": false,
                     "id": 19352450,
                     "language": "C++",
-                    "last_commit": "2026-08-21T17:21:04Z",
+                    "last_commit": "2026-08-23T16:41:38Z",
                     "owner": "dashpay",
                     "repo": "dash",
                     "stars": 1541
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:00:59.339Z",
+    "last_updated": "2026-08-23T21:00:05.404Z",
     "original_repository": "shanejonas/awesome-json-rpc",
     "original_repository_id": 171582079,
     "original_repository_sha": "73f1b960a66d9110ee589f71be977529c5a523e9",
