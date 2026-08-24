@@ -182,7 +182,7 @@
                 "archived": false,
                 "id": 70068232,
                 "language": "C#",
-                "last_commit": "2026-08-22T02:13:24Z",
+                "last_commit": "2026-08-23T21:26:41Z",
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
                 "stars": 935
@@ -234,7 +234,7 @@
                 "archived": false,
                 "id": 123437311,
                 "language": "Nim",
-                "last_commit": "2026-08-19T15:10:20Z",
+                "last_commit": "2026-08-24T05:07:00Z",
                 "owner": "status-im",
                 "repo": "nim-json-rpc",
                 "stars": 101
@@ -494,7 +494,7 @@
                     "last_commit": "2026-08-23T20:21:32Z",
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10788
+                    "stars": 10791
                   }
                 },
                 {
@@ -551,10 +551,10 @@
                     "archived": false,
                     "id": 19352450,
                     "language": "C++",
-                    "last_commit": "2026-08-23T16:41:38Z",
+                    "last_commit": "2026-08-23T22:52:16Z",
                     "owner": "dashpay",
                     "repo": "dash",
-                    "stars": 1541
+                    "stars": 1542
                   }
                 },
                 {
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:00:05.404Z",
+    "last_updated": "2026-08-24T14:49:58.975Z",
     "original_repository": "shanejonas/awesome-json-rpc",
     "original_repository_id": 171582079,
     "original_repository_sha": "73f1b960a66d9110ee589f71be977529c5a523e9",
