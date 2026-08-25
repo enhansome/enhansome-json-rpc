@@ -185,7 +185,7 @@
                 "last_commit": "2026-08-24T20:12:33Z",
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
-                "stars": 935
+                "stars": 936
               }
             },
             {
@@ -491,10 +491,10 @@
                     "archived": false,
                     "id": 19316619,
                     "language": "C++",
-                    "last_commit": "2026-08-25T06:39:43Z",
+                    "last_commit": "2026-08-25T19:19:19Z",
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10797
+                    "stars": 10798
                   }
                 },
                 {
@@ -551,7 +551,7 @@
                     "archived": false,
                     "id": 19352450,
                     "language": "C++",
-                    "last_commit": "2026-08-23T22:52:16Z",
+                    "last_commit": "2026-08-25T17:02:24Z",
                     "owner": "dashpay",
                     "repo": "dash",
                     "stars": 1541
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:40:11.318Z",
+    "last_updated": "2026-08-25T21:05:04.504Z",
     "original_repository": "shanejonas/awesome-json-rpc",
     "original_repository_id": 171582079,
     "original_repository_sha": "73f1b960a66d9110ee589f71be977529c5a523e9",
