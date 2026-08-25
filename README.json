@@ -491,10 +491,10 @@
                     "archived": false,
                     "id": 19316619,
                     "language": "C++",
-                    "last_commit": "2026-08-23T20:21:32Z",
+                    "last_commit": "2026-08-25T06:39:43Z",
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10796
+                    "stars": 10797
                   }
                 },
                 {
@@ -554,7 +554,7 @@
                     "last_commit": "2026-08-23T22:52:16Z",
                     "owner": "dashpay",
                     "repo": "dash",
-                    "stars": 1542
+                    "stars": 1541
                   }
                 },
                 {
@@ -566,7 +566,7 @@
                     "archived": false,
                     "id": 63441273,
                     "language": "C#",
-                    "last_commit": "2026-08-24T19:41:01Z",
+                    "last_commit": "2026-08-25T02:19:55Z",
                     "owner": "microsoft",
                     "repo": "sqltoolsservice",
                     "stars": 507
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:11:53.285Z",
+    "last_updated": "2026-08-25T06:40:11.318Z",
     "original_repository": "shanejonas/awesome-json-rpc",
     "original_repository_id": 171582079,
     "original_repository_sha": "73f1b960a66d9110ee589f71be977529c5a523e9",
