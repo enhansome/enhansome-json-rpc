@@ -182,7 +182,7 @@
                 "archived": false,
                 "id": 70068232,
                 "language": "C#",
-                "last_commit": "2026-08-27T00:07:07Z",
+                "last_commit": "2026-08-27T00:31:21Z",
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
                 "stars": 936
@@ -479,7 +479,7 @@
                     "last_commit": "2026-08-15T21:17:47Z",
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15259
+                    "stars": 15260
                   }
                 },
                 {
@@ -566,7 +566,7 @@
                     "archived": false,
                     "id": 63441273,
                     "language": "C#",
-                    "last_commit": "2026-08-26T23:10:13Z",
+                    "last_commit": "2026-08-27T05:00:14Z",
                     "owner": "microsoft",
                     "repo": "sqltoolsservice",
                     "stars": 508
@@ -617,9 +617,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:16:10.099Z",
-    "original_repository": "shanejonas/awesome-json-rpc",
-    "original_repository_id": 171582079,
+    "last_updated": "2026-08-27T11:48:54.873Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 171582079,
+      "language": null,
+      "last_commit": "2024-11-01T14:57:55Z",
+      "owner": "shanejonas",
+      "repo": "awesome-json-rpc",
+      "stars": 54
+    },
     "original_repository_sha": "73f1b960a66d9110ee589f71be977529c5a523e9",
     "enhanced_repository": "enhansome/enhansome-json-rpc",
     "enhanced_repository_description": null,
