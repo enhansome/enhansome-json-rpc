@@ -182,7 +182,7 @@
                 "archived": false,
                 "id": 70068232,
                 "language": "C#",
-                "last_commit": "2026-08-24T20:12:33Z",
+                "last_commit": "2026-08-27T00:07:07Z",
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
                 "stars": 936
@@ -340,7 +340,7 @@
                 "last_commit": "2025-03-05T18:00:57Z",
                 "owner": "cesanta",
                 "repo": "mjson",
-                "stars": 466
+                "stars": 467
               }
             }
           ]
@@ -479,7 +479,7 @@
                     "last_commit": "2026-08-15T21:17:47Z",
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15258
+                    "stars": 15259
                   }
                 },
                 {
@@ -491,10 +491,10 @@
                     "archived": false,
                     "id": 19316619,
                     "language": "C++",
-                    "last_commit": "2026-08-25T19:19:19Z",
+                    "last_commit": "2026-08-26T18:10:14Z",
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10798
+                    "stars": 10803
                   }
                 },
                 {
@@ -509,7 +509,7 @@
                     "last_commit": "2026-07-19T15:11:43Z",
                     "owner": "zcash",
                     "repo": "zcash",
-                    "stars": 5485
+                    "stars": 5486
                   }
                 },
                 {
@@ -539,7 +539,7 @@
                     "last_commit": "2026-08-23T01:58:07Z",
                     "owner": "litecoin-project",
                     "repo": "litecoin",
-                    "stars": 4600
+                    "stars": 4599
                   }
                 },
                 {
@@ -566,10 +566,10 @@
                     "archived": false,
                     "id": 63441273,
                     "language": "C#",
-                    "last_commit": "2026-08-25T02:19:55Z",
+                    "last_commit": "2026-08-26T23:10:13Z",
                     "owner": "microsoft",
                     "repo": "sqltoolsservice",
-                    "stars": 507
+                    "stars": 508
                   }
                 },
                 {
@@ -617,7 +617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:05:04.504Z",
+    "last_updated": "2026-08-27T00:16:10.099Z",
     "original_repository": "shanejonas/awesome-json-rpc",
     "original_repository_id": 171582079,
     "original_repository_sha": "73f1b960a66d9110ee589f71be977529c5a523e9",
