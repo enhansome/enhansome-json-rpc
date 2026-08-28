@@ -21,7 +21,8 @@
                 "owner": "tedeh",
                 "repo": "jayson",
                 "stars": 726
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             },
             {
               "node_type": "item",
@@ -36,7 +37,8 @@
                 "owner": "bigstepinc",
                 "repo": "jsonrpc-bidirectional",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             },
             {
               "node_type": "item",
@@ -56,7 +58,8 @@
                     "owner": "koorchik",
                     "repo": "node-mole-rpc-transport-ws",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:31:14.850Z"
                 },
                 {
                   "node_type": "item",
@@ -71,7 +74,8 @@
                     "owner": "koorchik",
                     "repo": "node-mole-rpc-transport-mqtt",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:31:14.850Z"
                 },
                 {
                   "node_type": "item",
@@ -86,7 +90,8 @@
                     "owner": "koorchik",
                     "repo": "node-mole-rpc-transport-webworker",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:31:14.850Z"
                 },
                 {
                   "node_type": "item",
@@ -101,7 +106,8 @@
                     "owner": "koorchik",
                     "repo": "node-mole-rpc-transport-eventemitter",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:31:14.850Z"
                 }
               ],
               "repo_info": {
@@ -112,7 +118,8 @@
                 "owner": "koorchik",
                 "repo": "node-mole-rpc",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             },
             {
               "node_type": "item",
@@ -127,7 +134,8 @@
                 "owner": "rse",
                 "repo": "mqtt-json-rpc",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             },
             {
               "node_type": "item",
@@ -142,7 +150,8 @@
                 "owner": "statianzo",
                 "repo": "pmrpc",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             }
           ]
         },
@@ -164,7 +173,8 @@
                 "owner": "bricklife",
                 "repo": "JSONRPCKit",
                 "stars": 175
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             }
           ]
         },
@@ -182,11 +192,12 @@
                 "archived": false,
                 "id": 70068232,
                 "language": "C#",
-                "last_commit": "2026-08-27T00:31:21Z",
+                "last_commit": "2026-08-27T21:30:13Z",
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
                 "stars": 936
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             },
             {
               "node_type": "item",
@@ -201,7 +212,8 @@
                 "owner": "Astn",
                 "repo": "JSON-RPC.NET",
                 "stars": 328
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             },
             {
               "node_type": "item",
@@ -216,7 +228,8 @@
                 "owner": "edjCase",
                 "repo": "JsonRpc",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             }
           ]
         },
@@ -234,11 +247,12 @@
                 "archived": false,
                 "id": 123437311,
                 "language": "Nim",
-                "last_commit": "2026-08-24T05:07:00Z",
+                "last_commit": "2026-08-27T20:03:47Z",
                 "owner": "status-im",
                 "repo": "nim-json-rpc",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             }
           ]
         },
@@ -260,7 +274,8 @@
                 "owner": "hyperledger-archives",
                 "repo": "burrow",
                 "stars": 1021
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             },
             {
               "node_type": "item",
@@ -275,7 +290,8 @@
                 "owner": "osamingo",
                 "repo": "jsonrpc",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             }
           ]
         },
@@ -297,7 +313,8 @@
                 "owner": "pavlov99",
                 "repo": "json-rpc",
                 "stars": 490
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             }
           ]
         },
@@ -319,7 +336,8 @@
                 "owner": "MollsReis",
                 "repo": "junior",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             }
           ]
         },
@@ -341,7 +359,8 @@
                 "owner": "cesanta",
                 "repo": "mjson",
                 "stars": 467
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             }
           ]
         },
@@ -363,7 +382,8 @@
                 "owner": "helios-technologies",
                 "repo": "json-rpc",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             }
           ]
         }
@@ -388,7 +408,8 @@
                 "owner": "open-rpc",
                 "repo": "spec",
                 "stars": 215
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             },
             {
               "node_type": "item",
@@ -403,7 +424,8 @@
                 "owner": "open-rpc",
                 "repo": "generator",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             },
             {
               "node_type": "item",
@@ -418,7 +440,8 @@
                 "owner": "open-rpc",
                 "repo": "examples",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             },
             {
               "node_type": "item",
@@ -433,7 +456,8 @@
                 "owner": "open-rpc",
                 "repo": "meta-schema",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             },
             {
               "node_type": "item",
@@ -448,7 +472,8 @@
                 "owner": "open-rpc",
                 "repo": "editor-extensions-vscode",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             },
             {
               "node_type": "item",
@@ -463,7 +488,8 @@
                 "owner": "open-rpc",
                 "repo": "docs-react",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T04:31:14.850Z"
             },
             {
               "children": [
@@ -480,7 +506,8 @@
                     "owner": "dogecoin",
                     "repo": "dogecoin",
                     "stars": 15260
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:31:14.850Z"
                 },
                 {
                   "node_type": "item",
@@ -491,11 +518,12 @@
                     "archived": false,
                     "id": 19316619,
                     "language": "C++",
-                    "last_commit": "2026-08-26T18:10:14Z",
+                    "last_commit": "2026-08-27T18:00:47Z",
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10803
-                  }
+                    "stars": 10804
+                  },
+                  "first_seen": "2026-08-28T04:31:14.850Z"
                 },
                 {
                   "node_type": "item",
@@ -509,8 +537,9 @@
                     "last_commit": "2026-07-19T15:11:43Z",
                     "owner": "zcash",
                     "repo": "zcash",
-                    "stars": 5486
-                  }
+                    "stars": 5484
+                  },
+                  "first_seen": "2026-08-28T04:31:14.850Z"
                 },
                 {
                   "node_type": "item",
@@ -525,7 +554,8 @@
                     "owner": "Consensys",
                     "repo": "quorum",
                     "stars": 4765
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:31:14.850Z"
                 },
                 {
                   "node_type": "item",
@@ -540,7 +570,8 @@
                     "owner": "litecoin-project",
                     "repo": "litecoin",
                     "stars": 4599
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:31:14.850Z"
                 },
                 {
                   "node_type": "item",
@@ -555,7 +586,8 @@
                     "owner": "dashpay",
                     "repo": "dash",
                     "stars": 1541
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:31:14.850Z"
                 },
                 {
                   "node_type": "item",
@@ -566,11 +598,12 @@
                     "archived": false,
                     "id": 63441273,
                     "language": "C#",
-                    "last_commit": "2026-08-27T05:00:14Z",
+                    "last_commit": "2026-08-27T18:30:48Z",
                     "owner": "microsoft",
                     "repo": "sqltoolsservice",
                     "stars": 508
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:31:14.850Z"
                 },
                 {
                   "node_type": "item",
@@ -585,7 +618,8 @@
                     "owner": "tarantool",
                     "repo": "nginx_upstream_module",
                     "stars": 173
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:31:14.850Z"
                 },
                 {
                   "node_type": "item",
@@ -600,7 +634,8 @@
                     "owner": "ethereumproject",
                     "repo": "wiki",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:31:14.850Z"
                 }
               ],
               "description": null,
@@ -617,7 +652,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:48:54.873Z",
+    "last_updated": "2026-08-28T04:31:14.850Z",
     "original_repository_info": {
       "archived": false,
       "id": 171582079,
