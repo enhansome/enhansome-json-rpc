@@ -15,12 +15,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jayson is a simple but featureful JSON-RPC 2.0/1.0 client and server for node.js",
+                "homepage": "https://jayson.tedeh.net",
                 "id": 3089420,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-12-22T09:24:20Z",
+                "open_issues": 1,
                 "owner": "tedeh",
                 "repo": "jayson",
-                "stars": 726
+                "stars": 726,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             },
@@ -31,12 +36,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bidirectional RPC over WebSocket, Worker, WebRTC and HTTP with extensive plugin support.",
+                "homepage": null,
                 "id": 77954270,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-05-27T18:26:03Z",
+                "open_issues": 4,
                 "owner": "bigstepinc",
                 "repo": "jsonrpc-bidirectional",
-                "stars": 113
+                "stars": 113,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             },
@@ -52,12 +62,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WebSocket(ws) transport for Mole-RPC (JSON RPC library)",
+                    "homepage": null,
                     "id": 166583034,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-06-18T02:31:45Z",
+                    "open_issues": 3,
                     "owner": "koorchik",
                     "repo": "node-mole-rpc-transport-ws",
-                    "stars": 4
+                    "stars": 4,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
                 },
@@ -68,12 +83,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MQTT transport for Mole-RPC (JSON RPC library)",
+                    "homepage": null,
                     "id": 160591613,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-11-19T10:39:56Z",
+                    "open_issues": 3,
                     "owner": "koorchik",
                     "repo": "node-mole-rpc-transport-mqtt",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": [
+                      "json-rpc",
+                      "json-rpc-library",
+                      "mole-rpc",
+                      "mqtt-transport"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
                 },
@@ -84,12 +109,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easy way to communicate with webworker using Mole-RPC (JSON RPC library)",
+                    "homepage": null,
                     "id": 168966007,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-09T17:14:13Z",
+                    "open_issues": 4,
                     "owner": "koorchik",
                     "repo": "node-mole-rpc-transport-webworker",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
                 },
@@ -100,24 +130,41 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Event Emitter Mole RPC (JSON RPC library) transport",
+                    "homepage": null,
                     "id": 160591760,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2022-11-26T19:29:04Z",
+                    "open_issues": 0,
                     "owner": "koorchik",
                     "repo": "node-mole-rpc-transport-eventemitter",
-                    "stars": 1
+                    "stars": 1,
+                    "topics": [
+                      "eventemitter",
+                      "json-rpc",
+                      "mole-rpc"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Transport agnostic spec compliant JSON RPC client and server",
+                "homepage": null,
                 "id": 159377029,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-04-11T08:48:52Z",
+                "open_issues": 13,
                 "owner": "koorchik",
                 "repo": "node-mole-rpc",
-                "stars": 63
+                "stars": 63,
+                "topics": [
+                  "json-rpc",
+                  "rpc-server"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             },
@@ -128,12 +175,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON-RPC protocol over MQTT communication",
+                "homepage": "https://npmjs.com/mqtt-json-rpc",
                 "id": 121006538,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2026-06-29T21:53:54Z",
+                "open_issues": 3,
                 "owner": "rse",
                 "repo": "mqtt-json-rpc",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "json",
+                  "json-rpc",
+                  "mqtt",
+                  "rpc"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             },
@@ -144,12 +201,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JSON-RPC over postMessage",
+                "homepage": null,
                 "id": 149678162,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2020-05-03T20:36:01Z",
+                "open_issues": 1,
                 "owner": "statianzo",
                 "repo": "pmrpc",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             }
@@ -167,12 +229,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A type-safe JSON-RPC 2.0 library purely written in Swift",
+                "homepage": null,
                 "id": 45905880,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2020-08-29T22:18:28Z",
+                "open_issues": 9,
                 "owner": "bricklife",
                 "repo": "JSONRPCKit",
-                "stars": 175
+                "stars": 175,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             }
@@ -190,12 +257,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The StreamJsonRpc library offers JSON-RPC 2.0 over any .NET Stream, WebSocket, or Pipe. With bonus support for request cancellation, client proxy generation, and more.",
+                "homepage": "https://microsoft.github.io/vs-streamjsonrpc/",
                 "id": 70068232,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T22:02:31Z",
+                "open_issues": 51,
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
-                "stars": 936
+                "stars": 936,
+                "topics": [
+                  "dotnet",
+                  "json-rpc",
+                  "netstandard",
+                  "rpc",
+                  "stream",
+                  "transport"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             },
@@ -206,12 +285,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".Net JSON RPC framework",
+                "homepage": null,
                 "id": 17465376,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-03-12T23:50:57Z",
+                "open_issues": 21,
                 "owner": "Astn",
                 "repo": "JSON-RPC.NET",
-                "stars": 328
+                "stars": 328,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             },
@@ -222,12 +306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Json Rpc Router for Asp.Net Core",
+                "homepage": null,
                 "id": 40449676,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-03-18T21:04:20Z",
+                "open_issues": 10,
                 "owner": "edjCase",
                 "repo": "JsonRpc",
-                "stars": 145
+                "stars": 145,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             }
@@ -245,12 +334,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nim library for implementing JSON-RPC clients and servers",
+                "homepage": "https://status-im.github.io/nim-json-rpc/",
                 "id": 123437311,
                 "language": "Nim",
-                "last_commit": "2026-08-27T20:03:47Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:13:01Z",
+                "open_issues": 9,
                 "owner": "status-im",
                 "repo": "nim-json-rpc",
-                "stars": 101
+                "stars": 101,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             }
@@ -268,12 +362,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "https://wiki.hyperledger.org/display/burrow",
+                "homepage": "https://hyperledger.github.io/burrow",
                 "id": 37093171,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-12T17:25:51Z",
+                "open_issues": 53,
                 "owner": "hyperledger-archives",
                 "repo": "burrow",
-                "stars": 1021
+                "stars": 1021,
+                "topics": [
+                  "blockchain",
+                  "consensus",
+                  "ethereum",
+                  "evm",
+                  "hyperledger",
+                  "hyperledger-burrow",
+                  "permissioned-chains",
+                  "virtual-machine"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             },
@@ -284,12 +392,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The jsonrpc package helps implement of JSON-RPC 2.0",
+                "homepage": null,
                 "id": 72210430,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-03-28T05:49:58Z",
+                "open_issues": 6,
                 "owner": "osamingo",
                 "repo": "jsonrpc",
-                "stars": 193
+                "stars": 193,
+                "topics": [
+                  "api",
+                  "go",
+                  "json",
+                  "json-rpc",
+                  "rpc",
+                  "rpc-api"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             }
@@ -307,12 +427,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🔁 JSON-RPC 1/2 transport implementation. Supports python 2/3 and pypy.",
+                "homepage": "http://json-rpc.readthedocs.org",
                 "id": 13211363,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-03-17T08:11:01Z",
+                "open_issues": 24,
                 "owner": "pavlov99",
                 "repo": "json-rpc",
-                "stars": 490
+                "stars": 490,
+                "topics": [
+                  "json-rpc",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             }
@@ -330,12 +458,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PHP client/server library for JSON-RPC 2.0",
+                "homepage": "http://evilscott.github.io/junior/",
                 "id": 2053866,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-04-18T11:42:43Z",
+                "open_issues": 1,
                 "owner": "MollsReis",
                 "repo": "junior",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "json-rpc",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             }
@@ -353,12 +489,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C/C++ JSON parser, emitter, JSON-RPC engine for embedded systems",
+                "homepage": null,
                 "id": 135180908,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-03-05T18:00:57Z",
+                "open_issues": 26,
                 "owner": "cesanta",
                 "repo": "mjson",
-                "stars": 467
+                "stars": 467,
+                "topics": [
+                  "c",
+                  "embedded",
+                  "json",
+                  "json-rpc",
+                  "mit"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             }
@@ -376,12 +523,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Json RPC Module for Rack application",
+                "homepage": null,
                 "id": 1861430,
                 "language": "Ruby",
+                "license": null,
                 "last_commit": "2011-07-27T14:11:39Z",
+                "open_issues": 1,
                 "owner": "helios-technologies",
                 "repo": "json-rpc",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             }
@@ -402,12 +554,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The OpenRPC specification",
+                "homepage": "https://spec.open-rpc.org",
                 "id": 162487464,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-25T21:46:16Z",
+                "open_issues": 30,
                 "owner": "open-rpc",
                 "repo": "spec",
-                "stars": 215
+                "stars": 215,
+                "topics": [
+                  "openrpc",
+                  "openrpc-specification"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             },
@@ -418,12 +578,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Component & Multi-Language Generators for OpenRPC",
+                "homepage": null,
                 "id": 167082716,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-22T05:54:14Z",
+                "open_issues": 23,
                 "owner": "open-rpc",
                 "repo": "generator",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "open-rpc",
+                  "openrpc",
+                  "openrpc-document",
+                  "openrpc-generator",
+                  "rpc"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             },
@@ -434,12 +605,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of example OpenRPC documents.",
+                "homepage": null,
                 "id": 162646467,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-18T17:44:29Z",
+                "open_issues": 4,
                 "owner": "open-rpc",
                 "repo": "examples",
-                "stars": 57
+                "stars": 57,
+                "topics": [
+                  "open-rpc",
+                  "openrpc"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             },
@@ -450,12 +629,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official OpenRPC JSON Schema meta-schema.",
+                "homepage": null,
                 "id": 162643588,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-04T05:38:25Z",
+                "open_issues": 14,
                 "owner": "open-rpc",
                 "repo": "meta-schema",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "json-schema",
+                  "meta-schema",
+                  "openrpc-specification",
+                  "schema"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             },
@@ -466,12 +655,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Provides auto-completion, validation, and previewing for OpenRPC documents in Visual Studio Code.",
+                "homepage": "https://marketplace.visualstudio.com/items?itemName=OPEN-RPC.OPEN-RPC",
                 "id": 171068171,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2022-12-08T13:27:24Z",
+                "open_issues": 17,
                 "owner": "open-rpc",
                 "repo": "editor-extensions-vscode",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "openrpc-documents",
+                  "visual-studio"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             },
@@ -482,12 +679,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenRPC documentation as a react component.",
+                "homepage": null,
                 "id": 176998277,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2021-08-03T19:20:36Z",
+                "open_issues": 35,
                 "owner": "open-rpc",
                 "repo": "docs-react",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "docs-react",
+                  "openrpc-documentation"
+                ]
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
             },
@@ -500,12 +705,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "very currency",
+                    "homepage": null,
                     "id": 14981376,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-08-15T21:17:47Z",
+                    "open_issues": 306,
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15260
+                    "stars": 15261,
+                    "topics": [
+                      "cryptocurrency",
+                      "dogecoin",
+                      "wallet"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
                 },
@@ -516,12 +730,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Monero: the secure, private, untraceable cryptocurrency",
+                    "homepage": "https://getmonero.org",
                     "id": 19316619,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T07:58:27Z",
+                    "open_issues": 687,
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10805
+                    "stars": 10805,
+                    "topics": [
+                      "blockchain",
+                      "c-plus-plus",
+                      "cmake",
+                      "cryptocurrency",
+                      "cryptography",
+                      "cryptonote",
+                      "monero",
+                      "p2p",
+                      "privacy",
+                      "security"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
                 },
@@ -532,12 +762,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Zcash - Internet Money",
+                    "homepage": "https://z.cash/",
                     "id": 26987049,
                     "language": "C++",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-19T15:11:43Z",
+                    "open_issues": 1133,
                     "owner": "zcash",
                     "repo": "zcash",
-                    "stars": 5484
+                    "stars": 5484,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
                 },
@@ -548,12 +783,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A permissioned implementation of Ethereum supporting data privacy",
+                    "homepage": "https://www.goquorum.com/",
                     "id": 73670742,
                     "language": "Go",
+                    "license": "LGPL-3.0",
                     "last_commit": "2026-06-05T02:27:13Z",
+                    "open_issues": 0,
                     "owner": "Consensys",
                     "repo": "quorum",
-                    "stars": 4765
+                    "stars": 4765,
+                    "topics": [
+                      "blockchain",
+                      "consensus",
+                      "eea",
+                      "enterprise-ethereum",
+                      "enterprise-ethereum-client",
+                      "ethereum",
+                      "go",
+                      "goquorum",
+                      "ledger",
+                      "privacy",
+                      "protocols-team-goquorum",
+                      "quorum"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
                 },
@@ -564,12 +817,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Litecoin source tree",
+                    "homepage": "http://www.litecoin.org",
                     "id": 4646198,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T14:19:26Z",
+                    "open_issues": 104,
                     "owner": "litecoin-project",
                     "repo": "litecoin",
-                    "stars": 4600
+                    "stars": 4600,
+                    "topics": [
+                      "cryptocurrency",
+                      "litecoin"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
                 },
@@ -580,12 +841,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Dash - Reinventing Cryptocurrency",
+                    "homepage": "https://www.dash.org",
                     "id": 19352450,
                     "language": "C++",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T21:59:06Z",
+                    "open_issues": 239,
                     "owner": "dashpay",
                     "repo": "dash",
-                    "stars": 1541
+                    "stars": 1541,
+                    "topics": [
+                      "bitcoin",
+                      "blockchain",
+                      "cryptocurrency",
+                      "dash",
+                      "governance",
+                      "instant",
+                      "masternode",
+                      "p2p",
+                      "privacy"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
                 },
@@ -596,12 +872,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SQL Tools API service that provides SQL Server data management capabilities.",
+                    "homepage": null,
                     "id": 63441273,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-27T18:30:48Z",
+                    "open_issues": 69,
                     "owner": "microsoft",
                     "repo": "sqltoolsservice",
-                    "stars": 508
+                    "stars": 508,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
                 },
@@ -612,12 +893,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Tarantool NginX upstream module (REST, JSON API, websockets, load balancing)",
+                    "homepage": null,
                     "id": 34047258,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-03-02T19:22:36Z",
+                    "open_issues": 29,
                     "owner": "tarantool",
                     "repo": "nginx_upstream_module",
-                    "stars": 173
+                    "stars": 173,
+                    "topics": [
+                      "json-api",
+                      "json-rpc",
+                      "nginx",
+                      "nginx-lua",
+                      "rest-api",
+                      "tarantool",
+                      "tarantool-stored-procedures",
+                      "upstream"
+                    ]
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
                 },
@@ -628,12 +923,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "The Ethereum Classic Wiki",
+                    "homepage": null,
                     "id": 66734238,
                     "language": null,
+                    "license": null,
                     "last_commit": "2018-02-14T13:02:17Z",
+                    "open_issues": 0,
                     "owner": "ethereumproject",
                     "repo": "wiki",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
                 }
@@ -652,15 +952,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:14.778Z",
+    "last_updated": "2026-08-29T05:03:38.923Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of JSON-RPC resources.",
+      "homepage": null,
       "id": 171582079,
       "language": null,
+      "license": null,
       "last_commit": "2024-11-01T14:57:55Z",
+      "open_issues": 2,
       "owner": "shanejonas",
       "repo": "awesome-json-rpc",
-      "stars": 54
+      "stars": 54,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "73f1b960a66d9110ee589f71be977529c5a523e9",
     "enhanced_repository": "enhansome/enhansome-json-rpc",

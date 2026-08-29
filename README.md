@@ -53,7 +53,7 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
   * [JsonRpc.Router](https://github.com/edjCase/JsonRpc) ⭐ 145 | 🐛 10 | 🌐 C# | 📅 2025-03-18 - A .NetStandard 2.0 IRouter implementation for Json Rpc v2 requests for Microsoft.AspNetCore.Routing.
 
 * Nim
-  * [nim-json-rpc](https://github.com/status-im/nim-json-rpc) ⭐ 101 | 🐛 11 | 🌐 Nim | 📅 2026-08-27 - Nim library for implementing JSON-RPC clients and servers
+  * [nim-json-rpc](https://github.com/status-im/nim-json-rpc) ⭐ 101 | 🐛 9 | 🌐 Nim | 📅 2026-08-29 - Nim library for implementing JSON-RPC clients and servers
 
 * Golang
   * [hyperledger/burrow](https://github.com/hyperledger/burrow/tree/master/rpc) ⚠️ Archived - Burrow is a fully fledged blockchain node and smart contract execution engine, with an RPC service!
@@ -97,7 +97,7 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 #### Uses of JSON-RPC
 
-* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,260 | 🐛 306 | 🌐 C++ | 📅 2026-08-15 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
+* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,261 | 🐛 306 | 🌐 C++ | 📅 2026-08-15 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
 * [Monero](https://github.com/monero-project/monero) ⭐ 10,805 | 🐛 687 | 🌐 C++ | 📅 2026-08-28 - the secure, private, untraceable cryptocurrency.
 * [Zcash](https://github.com/zcash/zcash) ⚠️ Archived - Zcash is a cryptocurrency aimed at using cryptography to provide enhanced privacy for its users compared to other cryptocurrencies such as Bitcoin.
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived - A permissioned implementation of Ethereum supporting data privacy.
