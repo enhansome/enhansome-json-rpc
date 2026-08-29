@@ -266,7 +266,7 @@
                 "open_issues": 51,
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
-                "stars": 936,
+                "stars": 934,
                 "topics": [
                   "dotnet",
                   "json-rpc",
@@ -711,7 +711,7 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2026-08-15T21:17:47Z",
-                    "open_issues": 306,
+                    "open_issues": 307,
                     "owner": "dogecoin",
                     "repo": "dogecoin",
                     "stars": 15261,
@@ -736,10 +736,10 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-28T07:58:27Z",
-                    "open_issues": 687,
+                    "open_issues": 689,
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10805,
+                    "stars": 10809,
                     "topics": [
                       "blockchain",
                       "c-plus-plus",
@@ -826,7 +826,7 @@
                     "open_issues": 104,
                     "owner": "litecoin-project",
                     "repo": "litecoin",
-                    "stars": 4600,
+                    "stars": 4603,
                     "topics": [
                       "cryptocurrency",
                       "litecoin"
@@ -846,7 +846,7 @@
                     "id": 19352450,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-08-28T21:59:06Z",
+                    "last_commit": "2026-08-29T14:11:24Z",
                     "open_issues": 239,
                     "owner": "dashpay",
                     "repo": "dash",
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:03:38.923Z",
+    "last_updated": "2026-08-29T22:48:28.203Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of JSON-RPC resources.",
