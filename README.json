@@ -711,10 +711,10 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2026-08-15T21:17:47Z",
-                    "open_issues": 307,
+                    "open_issues": 309,
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15261,
+                    "stars": 15260,
                     "topics": [
                       "cryptocurrency",
                       "dogecoin",
@@ -736,10 +736,10 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-08-28T07:58:27Z",
-                    "open_issues": 689,
+                    "open_issues": 692,
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10809,
+                    "stars": 10808,
                     "topics": [
                       "blockchain",
                       "c-plus-plus",
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:48:28.203Z",
+    "last_updated": "2026-08-30T22:56:21.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of JSON-RPC resources.",

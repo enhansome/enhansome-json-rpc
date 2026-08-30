@@ -97,8 +97,8 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 #### Uses of JSON-RPC
 
-* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,261 | 🐛 307 | 🌐 C++ | 📅 2026-08-15 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
-* [Monero](https://github.com/monero-project/monero) ⭐ 10,809 | 🐛 689 | 🌐 C++ | 📅 2026-08-28 - the secure, private, untraceable cryptocurrency.
+* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,260 | 🐛 309 | 🌐 C++ | 📅 2026-08-15 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
+* [Monero](https://github.com/monero-project/monero) ⭐ 10,808 | 🐛 692 | 🌐 C++ | 📅 2026-08-28 - the secure, private, untraceable cryptocurrency.
 * [Zcash](https://github.com/zcash/zcash) ⚠️ Archived - Zcash is a cryptocurrency aimed at using cryptography to provide enhanced privacy for its users compared to other cryptocurrencies such as Bitcoin.
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived - A permissioned implementation of Ethereum supporting data privacy.
 * [Litecoin](https://github.com/litecoin-project/litecoin) ⭐ 4,603 | 🐛 104 | 🌐 C++ | 📅 2026-08-28 - Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware.
@@ -122,4 +122,4 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
