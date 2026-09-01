@@ -48,7 +48,7 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
   * [JSONRPCKit](https://github.com/bricklife/JSONRPCKit) ⚠️ Archived - A type-safe JSON-RPC 2.0 library purely written in Swift.
 
 * .NET
-  * [Microsoft/vs-streamjsonrpc](https://github.com/Microsoft/vs-streamjsonrpc) ⭐ 934 | 🐛 51 | 🌐 C# | 📅 2026-08-28 - The StreamJsonRpc library offers JSON-RPC 2.0 over any .NET Stream, WebSocket, or Pipe. With bonus support for request cancellation, client proxy generation, and more.
+  * [Microsoft/vs-streamjsonrpc](https://github.com/Microsoft/vs-streamjsonrpc) ⭐ 933 | 🐛 33 | 🌐 C# | 📅 2026-08-31 - The StreamJsonRpc library offers JSON-RPC 2.0 over any .NET Stream, WebSocket, or Pipe. With bonus support for request cancellation, client proxy generation, and more.
   * [JSON-RPC.NET](https://github.com/Astn/JSON-RPC.NET) ⭐ 328 | 🐛 21 | 🌐 C# | 📅 2024-03-12 - JSON-RPC.Net is a high performance Json-Rpc 2.0 server, leveraging the popular JSON.NET library. Host in ASP.NET, also supports sockets and pipes, oh my!
   * [JsonRpc.Router](https://github.com/edjCase/JsonRpc) ⭐ 145 | 🐛 10 | 🌐 C# | 📅 2025-03-18 - A .NetStandard 2.0 IRouter implementation for Json Rpc v2 requests for Microsoft.AspNetCore.Routing.
 
@@ -85,7 +85,7 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 ### Interface Description
 
-* [open-rpc/spec](https://github.com/open-rpc/spec) ⭐ 215 | 🐛 30 | 🌐 TypeScript | 📅 2026-02-25 - Specification for OpenRPC
+* [open-rpc/spec](https://github.com/open-rpc/spec) ⭐ 216 | 🐛 30 | 🌐 TypeScript | 📅 2026-02-25 - Specification for OpenRPC
 * [open-rpc/generator-client](https://github.com/open-rpc/generator-client) ⭐ 98 | 🐛 23 | 🌐 TypeScript | 📅 2025-10-22 - Mono repo for the client generators for each target language
 * [open-rpc/examples](https://github.com/open-rpc/examples) ⭐ 57 | 🐛 4 | 🌐 TypeScript | 📅 2025-11-18 - Collection of example open-rpc documents
 * [open-rpc/meta-schema](https://github.com/open-rpc/meta-schema) ⭐ 34 | 🐛 14 | 🌐 Go | 📅 2026-02-04 - JSON Schema file representing the open-rpc specification.
@@ -97,12 +97,12 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 #### Uses of JSON-RPC
 
-* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,260 | 🐛 309 | 🌐 C++ | 📅 2026-08-15 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
-* [Monero](https://github.com/monero-project/monero) ⭐ 10,808 | 🐛 692 | 🌐 C++ | 📅 2026-08-28 - the secure, private, untraceable cryptocurrency.
+* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,261 | 🐛 309 | 🌐 C++ | 📅 2026-08-15 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
+* [Monero](https://github.com/monero-project/monero) ⭐ 10,813 | 🐛 684 | 🌐 C++ | 📅 2026-08-31 - the secure, private, untraceable cryptocurrency.
 * [Zcash](https://github.com/zcash/zcash) ⚠️ Archived - Zcash is a cryptocurrency aimed at using cryptography to provide enhanced privacy for its users compared to other cryptocurrencies such as Bitcoin.
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived - A permissioned implementation of Ethereum supporting data privacy.
 * [Litecoin](https://github.com/litecoin-project/litecoin) ⭐ 4,603 | 🐛 104 | 🌐 C++ | 📅 2026-08-28 - Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware.
-* [Dash](https://github.com/dashpay/dash) ⭐ 1,541 | 🐛 239 | 🌐 C++ | 📅 2026-08-29 - Dash is Digital Cash You Can Spend Anywhere.
+* [Dash](https://github.com/dashpay/dash) ⭐ 1,541 | 🐛 239 | 🌐 C++ | 📅 2026-08-31 - Dash is Digital Cash You Can Spend Anywhere.
 * [Microsoft SQL Tools Service](https://github.com/Microsoft/sqltoolsservice/) ⭐ 508 | 🐛 69 | 🌐 C# | 📅 2026-08-27 - SQL Query and Management over JSON-RPC.
 * [Tarantool](https://github.com/tarantool/nginx_upstream_module) ⭐ 173 | 🐛 29 | 🌐 C | 📅 2021-03-02 - Get your data in RAM. Get compute close to data. Enjoy the performance. (Provides nginx upstream module to support JSON-RPC)
 * [Ethereum Classic](https://github.com/ethereumproject/wiki/wiki/JSON-RPC) ⚠️ Archived - Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality that was a result of the DAO fork.
@@ -122,4 +122,4 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
