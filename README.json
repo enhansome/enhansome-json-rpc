@@ -262,8 +262,8 @@
                 "id": 70068232,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T17:46:20Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-02T18:49:45Z",
+                "open_issues": 34,
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
                 "stars": 933,
@@ -340,7 +340,7 @@
                 "language": "Nim",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T04:13:01Z",
-                "open_issues": 9,
+                "open_issues": 11,
                 "owner": "status-im",
                 "repo": "nim-json-rpc",
                 "stars": 101,
@@ -714,7 +714,7 @@
                     "open_issues": 309,
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15260,
+                    "stars": 15258,
                     "topics": [
                       "cryptocurrency",
                       "dogecoin",
@@ -735,11 +735,11 @@
                     "id": 19316619,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-01T19:13:13Z",
-                    "open_issues": 689,
+                    "last_commit": "2026-09-02T10:19:41Z",
+                    "open_issues": 690,
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10819,
+                    "stars": 10817,
                     "topics": [
                       "blockchain",
                       "c-plus-plus",
@@ -771,7 +771,7 @@
                     "open_issues": 1133,
                     "owner": "zcash",
                     "repo": "zcash",
-                    "stars": 5485,
+                    "stars": 5484,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
@@ -826,7 +826,7 @@
                     "open_issues": 104,
                     "owner": "litecoin-project",
                     "repo": "litecoin",
-                    "stars": 4602,
+                    "stars": 4603,
                     "topics": [
                       "cryptocurrency",
                       "litecoin"
@@ -877,8 +877,8 @@
                     "id": 63441273,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-01T18:11:35Z",
-                    "open_issues": 72,
+                    "last_commit": "2026-09-02T22:45:55Z",
+                    "open_issues": 69,
                     "owner": "microsoft",
                     "repo": "sqltoolsservice",
                     "stars": 508,
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T22:50:17.466Z",
+    "last_updated": "2026-09-02T22:51:37.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of JSON-RPC resources.",
