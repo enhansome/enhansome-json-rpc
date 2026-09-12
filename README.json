@@ -584,7 +584,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2025-10-22T05:54:14Z",
-                "open_issues": 23,
+                "open_issues": 22,
                 "owner": "open-rpc",
                 "repo": "generator",
                 "stars": 98,
@@ -711,10 +711,10 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2026-09-10T19:10:05Z",
-                    "open_issues": 306,
+                    "open_issues": 304,
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15233,
+                    "stars": 15234,
                     "topics": [
                       "cryptocurrency",
                       "dogecoin",
@@ -736,10 +736,10 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-10T13:41:53Z",
-                    "open_issues": 616,
+                    "open_issues": 630,
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10844,
+                    "stars": 10846,
                     "topics": [
                       "blockchain",
                       "c-plus-plus",
@@ -826,7 +826,7 @@
                     "open_issues": 106,
                     "owner": "litecoin-project",
                     "repo": "litecoin",
-                    "stars": 4603,
+                    "stars": 4602,
                     "topics": [
                       "cryptocurrency",
                       "litecoin"
@@ -847,10 +847,10 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2026-09-11T15:16:09Z",
-                    "open_issues": 223,
+                    "open_issues": 224,
                     "owner": "dashpay",
                     "repo": "dash",
-                    "stars": 1540,
+                    "stars": 1538,
                     "topics": [
                       "bitcoin",
                       "blockchain",
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T22:48:22.899Z",
+    "last_updated": "2026-09-12T22:35:36.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of JSON-RPC resources.",
