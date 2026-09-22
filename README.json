@@ -262,8 +262,8 @@
                 "id": 70068232,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T22:38:38Z",
-                "open_issues": 29,
+                "last_commit": "2026-09-22T18:16:03Z",
+                "open_issues": 28,
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
                 "stars": 937,
@@ -714,7 +714,7 @@
                     "open_issues": 318,
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15230,
+                    "stars": 15231,
                     "topics": [
                       "cryptocurrency",
                       "dogecoin",
@@ -736,10 +736,10 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-09-20T20:10:18Z",
-                    "open_issues": 625,
+                    "open_issues": 632,
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10864,
+                    "stars": 10866,
                     "topics": [
                       "blockchain",
                       "c-plus-plus",
@@ -792,7 +792,7 @@
                     "open_issues": 0,
                     "owner": "Consensys-Incorporated",
                     "repo": "quorum",
-                    "stars": 4764,
+                    "stars": 4765,
                     "topics": [
                       "blockchain",
                       "consensus",
@@ -846,8 +846,8 @@
                     "id": 19352450,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-09-21T22:01:56Z",
-                    "open_issues": 230,
+                    "last_commit": "2026-09-22T23:09:15Z",
+                    "open_issues": 224,
                     "owner": "dashpay",
                     "repo": "dash",
                     "stars": 1538,
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:39:48.680Z",
+    "last_updated": "2026-09-22T23:17:02.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of JSON-RPC resources.",
