@@ -290,8 +290,8 @@
                 "id": 17465376,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-23T19:15:15Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-24T23:27:57Z",
+                "open_issues": 7,
                 "owner": "Astn",
                 "repo": "JSON-RPC.NET",
                 "stars": 328,
@@ -711,10 +711,10 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2026-09-10T19:10:05Z",
-                    "open_issues": 318,
+                    "open_issues": 320,
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15232,
+                    "stars": 15233,
                     "topics": [
                       "cryptocurrency",
                       "dogecoin",
@@ -735,11 +735,11 @@
                     "id": 19316619,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-23T12:44:34Z",
-                    "open_issues": 627,
+                    "last_commit": "2026-09-24T16:58:41Z",
+                    "open_issues": 610,
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10869,
+                    "stars": 10871,
                     "topics": [
                       "blockchain",
                       "c-plus-plus",
@@ -771,7 +771,7 @@
                     "open_issues": 1132,
                     "owner": "zcash",
                     "repo": "zcash",
-                    "stars": 5490,
+                    "stars": 5491,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
@@ -792,7 +792,7 @@
                     "open_issues": 0,
                     "owner": "Consensys-Incorporated",
                     "repo": "quorum",
-                    "stars": 4765,
+                    "stars": 4766,
                     "topics": [
                       "blockchain",
                       "consensus",
@@ -823,10 +823,10 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2026-09-18T17:22:25Z",
-                    "open_issues": 110,
+                    "open_issues": 111,
                     "owner": "litecoin-project",
                     "repo": "litecoin",
-                    "stars": 4604,
+                    "stars": 4605,
                     "topics": [
                       "cryptocurrency",
                       "litecoin"
@@ -846,8 +846,8 @@
                     "id": 19352450,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-09-23T20:38:11Z",
-                    "open_issues": 223,
+                    "last_commit": "2026-09-24T20:11:36Z",
+                    "open_issues": 222,
                     "owner": "dashpay",
                     "repo": "dash",
                     "stars": 1538,
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T23:11:35.663Z",
+    "last_updated": "2026-09-24T23:30:10.946Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of JSON-RPC resources.",
