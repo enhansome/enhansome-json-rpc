@@ -24,7 +24,7 @@
                 "open_issues": 1,
                 "owner": "tedeh",
                 "repo": "jayson",
-                "stars": 726,
+                "stars": 727,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
@@ -290,7 +290,7 @@
                 "id": 17465376,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-28T08:50:02Z",
+                "last_commit": "2026-09-30T17:27:48Z",
                 "open_issues": 0,
                 "owner": "Astn",
                 "repo": "JSON-RPC.NET",
@@ -340,7 +340,7 @@
                 "language": "Nim",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-28T15:41:53Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "status-im",
                 "repo": "nim-json-rpc",
                 "stars": 104,
@@ -714,7 +714,7 @@
                     "open_issues": 320,
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15234,
+                    "stars": 15232,
                     "topics": [
                       "cryptocurrency",
                       "dogecoin",
@@ -735,11 +735,11 @@
                     "id": 19316619,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-28T18:26:36Z",
-                    "open_issues": 613,
+                    "last_commit": "2026-09-30T18:19:04Z",
+                    "open_issues": 611,
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10890,
+                    "stars": 10893,
                     "topics": [
                       "blockchain",
                       "c-plus-plus",
@@ -771,7 +771,7 @@
                     "open_issues": 1132,
                     "owner": "zcash",
                     "repo": "zcash",
-                    "stars": 5493,
+                    "stars": 5490,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:31:14.850Z"
@@ -826,7 +826,7 @@
                     "open_issues": 111,
                     "owner": "litecoin-project",
                     "repo": "litecoin",
-                    "stars": 4606,
+                    "stars": 4605,
                     "topics": [
                       "cryptocurrency",
                       "litecoin"
@@ -846,8 +846,8 @@
                     "id": 19352450,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-09-29T21:58:16Z",
-                    "open_issues": 218,
+                    "last_commit": "2026-09-30T17:35:26Z",
+                    "open_issues": 214,
                     "owner": "dashpay",
                     "repo": "dash",
                     "stars": 1540,
@@ -877,8 +877,8 @@
                     "id": 63441273,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-29T16:33:25Z",
-                    "open_issues": 70,
+                    "last_commit": "2026-09-30T23:57:39Z",
+                    "open_issues": 69,
                     "owner": "microsoft",
                     "repo": "sqltoolsservice",
                     "stars": 509,
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:58:32.700Z",
+    "last_updated": "2026-10-01T00:11:15.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of JSON-RPC resources.",
