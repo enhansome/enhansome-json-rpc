@@ -714,7 +714,7 @@
                     "open_issues": 320,
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15233,
+                    "stars": 15232,
                     "topics": [
                       "cryptocurrency",
                       "dogecoin",
@@ -736,7 +736,7 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-02T19:55:51Z",
-                    "open_issues": 602,
+                    "open_issues": 603,
                     "owner": "monero-project",
                     "repo": "monero",
                     "stars": 10897,
@@ -877,7 +877,7 @@
                     "id": 63441273,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T22:15:00Z",
+                    "last_commit": "2026-10-03T00:06:25Z",
                     "open_issues": 70,
                     "owner": "microsoft",
                     "repo": "sqltoolsservice",
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:00:33.237Z",
+    "last_updated": "2026-10-03T04:54:02.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of JSON-RPC resources.",
