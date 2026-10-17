@@ -339,8 +339,8 @@
                 "id": 123437311,
                 "language": "Nim",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-07T16:46:06Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-17T21:55:49Z",
+                "open_issues": 11,
                 "owner": "status-im",
                 "repo": "nim-json-rpc",
                 "stars": 104,
@@ -711,7 +711,7 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2026-09-10T19:10:05Z",
-                    "open_issues": 324,
+                    "open_issues": 315,
                     "owner": "dogecoin",
                     "repo": "dogecoin",
                     "stars": 15232,
@@ -735,7 +735,7 @@
                     "id": 19316619,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-15T18:44:22Z",
+                    "last_commit": "2026-10-17T10:20:07Z",
                     "open_issues": 587,
                     "owner": "monero-project",
                     "repo": "monero",
@@ -826,7 +826,7 @@
                     "open_issues": 113,
                     "owner": "litecoin-project",
                     "repo": "litecoin",
-                    "stars": 4603,
+                    "stars": 4602,
                     "topics": [
                       "cryptocurrency",
                       "litecoin"
@@ -846,8 +846,8 @@
                     "id": 19352450,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-16T18:57:29Z",
-                    "open_issues": 226,
+                    "last_commit": "2026-10-17T02:29:48Z",
+                    "open_issues": 229,
                     "owner": "dashpay",
                     "repo": "dash",
                     "stars": 1538,
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:02:19.226Z",
+    "last_updated": "2026-10-17T22:41:16.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of JSON-RPC resources.",
