@@ -664,7 +664,7 @@
                 "open_issues": 17,
                 "owner": "open-rpc",
                 "repo": "editor-extensions-vscode",
-                "stars": 12,
+                "stars": 13,
                 "topics": [
                   "openrpc-documents",
                   "visual-studio"
@@ -711,10 +711,10 @@
                     "language": "C++",
                     "license": "MIT",
                     "last_commit": "2026-09-10T19:10:05Z",
-                    "open_issues": 315,
+                    "open_issues": 316,
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15232,
+                    "stars": 15234,
                     "topics": [
                       "cryptocurrency",
                       "dogecoin",
@@ -735,11 +735,11 @@
                     "id": 19316619,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-17T10:20:07Z",
-                    "open_issues": 587,
+                    "last_commit": "2026-10-18T09:13:50Z",
+                    "open_issues": 594,
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10930,
+                    "stars": 10935,
                     "topics": [
                       "blockchain",
                       "c-plus-plus",
@@ -846,8 +846,8 @@
                     "id": 19352450,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-10-17T02:29:48Z",
-                    "open_issues": 229,
+                    "last_commit": "2026-10-18T09:06:45Z",
+                    "open_issues": 222,
                     "owner": "dashpay",
                     "repo": "dash",
                     "stars": 1538,
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T22:41:16.949Z",
+    "last_updated": "2026-10-18T22:37:10.101Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of JSON-RPC resources.",

@@ -89,7 +89,7 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 * [open-rpc/generator-client](https://github.com/open-rpc/generator-client) ⭐ 98 | 🐛 22 | 🌐 TypeScript | 📅 2025-10-22 - Mono repo for the client generators for each target language
 * [open-rpc/examples](https://github.com/open-rpc/examples) ⭐ 57 | 🐛 4 | 🌐 TypeScript | 📅 2025-11-18 - Collection of example open-rpc documents
 * [open-rpc/meta-schema](https://github.com/open-rpc/meta-schema) ⭐ 34 | 🐛 15 | 🌐 Go | 📅 2026-09-21 - JSON Schema file representing the open-rpc specification.
-* [open-rpc/editor-extensions-vscode](https://github.com/open-rpc/editor-extensions-vscode) ⭐ 12 | 🐛 17 | 🌐 TypeScript | 📅 2022-12-08 - A vscode extension to provide validation and auto-completion for open-rpc documents.
+* [open-rpc/editor-extensions-vscode](https://github.com/open-rpc/editor-extensions-vscode) ⭐ 13 | 🐛 17 | 🌐 TypeScript | 📅 2022-12-08 - A vscode extension to provide validation and auto-completion for open-rpc documents.
 * [open-rpc/docs-react](https://github.com/open-rpc/docs-react) ⭐ 10 | 🐛 35 | 🌐 TypeScript | 📅 2021-08-03 - OpenRPC documentation as a react component.
 * [open-rpc.org](https://open-rpc.org) - A standard, programming language-agnostic interface description for JSON-RPC 2.0 APIs.
 * [open-rpc/playground](https://playground.open-rpc.org) - A play to play around with OpenRPC.
@@ -97,12 +97,12 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 #### Uses of JSON-RPC
 
-* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,232 | 🐛 315 | 🌐 C++ | 📅 2026-09-10 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
-* [Monero](https://github.com/monero-project/monero) ⭐ 10,930 | 🐛 587 | 🌐 C++ | 📅 2026-10-17 - the secure, private, untraceable cryptocurrency.
+* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,234 | 🐛 316 | 🌐 C++ | 📅 2026-09-10 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
+* [Monero](https://github.com/monero-project/monero) ⭐ 10,935 | 🐛 594 | 🌐 C++ | 📅 2026-10-18 - the secure, private, untraceable cryptocurrency.
 * [Zcash](https://github.com/zcash/zcash) ⚠️ Archived - Zcash is a cryptocurrency aimed at using cryptography to provide enhanced privacy for its users compared to other cryptocurrencies such as Bitcoin.
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived - A permissioned implementation of Ethereum supporting data privacy.
 * [Litecoin](https://github.com/litecoin-project/litecoin) ⭐ 4,602 | 🐛 113 | 🌐 C++ | 📅 2026-10-16 - Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware.
-* [Dash](https://github.com/dashpay/dash) ⭐ 1,538 | 🐛 229 | 🌐 C++ | 📅 2026-10-17 - Dash is Digital Cash You Can Spend Anywhere.
+* [Dash](https://github.com/dashpay/dash) ⭐ 1,538 | 🐛 222 | 🌐 C++ | 📅 2026-10-18 - Dash is Digital Cash You Can Spend Anywhere.
 * [Microsoft SQL Tools Service](https://github.com/Microsoft/sqltoolsservice/) ⭐ 510 | 🐛 71 | 🌐 C# | 📅 2026-10-15 - SQL Query and Management over JSON-RPC.
 * [Tarantool](https://github.com/tarantool/nginx_upstream_module) ⭐ 173 | 🐛 29 | 🌐 C | 📅 2021-03-02 - Get your data in RAM. Get compute close to data. Enjoy the performance. (Provides nginx upstream module to support JSON-RPC)
 * [Ethereum Classic](https://github.com/ethereumproject/wiki/wiki/JSON-RPC) ⚠️ Archived - Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality that was a result of the DAO fork.
@@ -122,4 +122,4 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
