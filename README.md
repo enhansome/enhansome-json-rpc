@@ -30,7 +30,7 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 ## Libraries
 
 * Javascript
-  * [Jayson](https://github.com/tedeh/jayson) ⭐ 727 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-21 - Jayson is a simple but featureful JSON-RPC 2.0/1.0 client and server for node.js
+  * [Jayson](https://github.com/tedeh/jayson) ⭐ 727 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-29 - Jayson is a simple but featureful JSON-RPC 2.0/1.0 client and server for node.js
   * [jsonrpc-bidirectional](https://github.com/bigstepinc/jsonrpc-bidirectional) ⭐ 113 | 🐛 4 | 🌐 JavaScript | 📅 2022-05-27 - Bidirectional RPC over WebSocket, Worker, WebRTC and HTTP with extensive plugin support.
   * [node-mole-rpc](https://github.com/koorchik/node-mole-rpc) ⭐ 63 | 🐛 13 | 🌐 JavaScript | 📅 2024-04-11 - Tiny transport agnostic JSON-RPC 2.0 client and server which can work everywhere. NodeJs, Browser, Electron. On any transport; Even custom.
     * [node-mole-rpc-transport-ws](https://github.com/koorchik/node-mole-rpc-transport-ws) ⭐ 4 | 🐛 3 | 🌐 JavaScript | 📅 2024-06-18 - WebSocket(ws) transport for Mole-RPC (JSON RPC library)
@@ -53,7 +53,7 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
   * [JsonRpc.Router](https://github.com/edjCase/JsonRpc) ⭐ 145 | 🐛 10 | 🌐 C# | 📅 2025-03-18 - A .NetStandard 2.0 IRouter implementation for Json Rpc v2 requests for Microsoft.AspNetCore.Routing.
 
 * Nim
-  * [nim-json-rpc](https://github.com/status-im/nim-json-rpc) ⭐ 104 | 🐛 10 | 🌐 Nim | 📅 2026-10-25 - Nim library for implementing JSON-RPC clients and servers
+  * [nim-json-rpc](https://github.com/status-im/nim-json-rpc) ⭐ 104 | 🐛 9 | 🌐 Nim | 📅 2026-10-29 - Nim library for implementing JSON-RPC clients and servers
 
 * Golang
   * [hyperledger/burrow](https://github.com/hyperledger/burrow/tree/master/rpc) ⚠️ Archived - Burrow is a fully fledged blockchain node and smart contract execution engine, with an RPC service!
@@ -61,13 +61,13 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
   * [go-ethereum/rpc](https://godoc.org/github.com/ethereum/go-ethereum/rpc) - Package rpc implements bi-directional JSON-RPC 2.0 on multiple transports.
 
 * Python
-  * [pavlov99](https://github.com/pavlov99/json-rpc) ⭐ 488 | 🐛 24 | 🌐 Python | 📅 2025-03-17 - JSON-RPC 1/2 transport implementation. Supports python 2/3 and pypy.
+  * [pavlov99](https://github.com/pavlov99/json-rpc) ⭐ 488 | 🐛 25 | 🌐 Python | 📅 2025-03-17 - JSON-RPC 1/2 transport implementation. Supports python 2/3 and pypy.
 
 * PHP
   * [EvilScott/junior](https://github.com/EvilScott/junior) ⭐ 40 | 🐛 1 | 🌐 PHP | 📅 2026-04-18 - PHP client/server library for JSON-RPC 2.0
 
 * C
-  * [cesanta/mjson](https://github.com/cesanta/mjson) ⭐ 471 | 🐛 27 | 🌐 C | 📅 2025-03-05 - C/C++ JSON parser, emitter, JSON-RPC engine for embedded systems
+  * [cesanta/mjson](https://github.com/cesanta/mjson) ⭐ 472 | 🐛 27 | 🌐 C | 📅 2025-03-05 - C/C++ JSON parser, emitter, JSON-RPC engine for embedded systems
 
 * Ruby
   * [helios-technologies/json-rpc](https://github.com/helios-technologies/json-rpc) ⭐ 12 | 🐛 1 | 🌐 Ruby | 📅 2011-07-27 - Implementation of JSON RPC 2.0 protocol. It allows you to create easily a json rpc server in pure Rack, in Rails, or asynchronous using Thin and EventMachine.
@@ -97,12 +97,12 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 #### Uses of JSON-RPC
 
-* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,205 | 🐛 309 | 🌐 C++ | 📅 2026-10-28 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
-* [Monero](https://github.com/monero-project/monero) ⭐ 10,960 | 🐛 589 | 🌐 C++ | 📅 2026-10-25 - the secure, private, untraceable cryptocurrency.
+* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,202 | 🐛 309 | 🌐 C++ | 📅 2026-10-28 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
+* [Monero](https://github.com/monero-project/monero) ⭐ 10,961 | 🐛 591 | 🌐 C++ | 📅 2026-10-25 - the secure, private, untraceable cryptocurrency.
 * [Zcash](https://github.com/zcash/zcash) ⚠️ Archived - Zcash is a cryptocurrency aimed at using cryptography to provide enhanced privacy for its users compared to other cryptocurrencies such as Bitcoin.
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived - A permissioned implementation of Ethereum supporting data privacy.
-* [Litecoin](https://github.com/litecoin-project/litecoin) ⭐ 4,606 | 🐛 114 | 🌐 C++ | 📅 2026-10-22 - Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware.
-* [Dash](https://github.com/dashpay/dash) ⭐ 1,538 | 🐛 226 | 🌐 C++ | 📅 2026-10-28 - Dash is Digital Cash You Can Spend Anywhere.
+* [Litecoin](https://github.com/litecoin-project/litecoin) ⭐ 4,605 | 🐛 114 | 🌐 C++ | 📅 2026-10-22 - Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware.
+* [Dash](https://github.com/dashpay/dash) ⭐ 1,538 | 🐛 239 | 🌐 C++ | 📅 2026-10-29 - Dash is Digital Cash You Can Spend Anywhere.
 * [Microsoft SQL Tools Service](https://github.com/Microsoft/sqltoolsservice/) ⭐ 510 | 🐛 70 | 🌐 C# | 📅 2026-10-28 - SQL Query and Management over JSON-RPC.
 * [Tarantool](https://github.com/tarantool/nginx_upstream_module) ⭐ 173 | 🐛 29 | 🌐 C | 📅 2021-03-02 - Get your data in RAM. Get compute close to data. Enjoy the performance. (Provides nginx upstream module to support JSON-RPC)
 * [Ethereum Classic](https://github.com/ethereumproject/wiki/wiki/JSON-RPC) ⚠️ Archived - Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality that was a result of the DAO fork.
@@ -122,4 +122,4 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
