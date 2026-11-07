@@ -97,11 +97,11 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 #### Uses of JSON-RPC
 
-* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,202 | 🐛 315 | 🌐 C++ | 📅 2026-10-28 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
-* [Monero](https://github.com/monero-project/monero) ⭐ 10,980 | 🐛 610 | 🌐 C++ | 📅 2026-11-02 - the secure, private, untraceable cryptocurrency.
+* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,201 | 🐛 316 | 🌐 C++ | 📅 2026-10-28 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
+* [Monero](https://github.com/monero-project/monero) ⭐ 10,983 | 🐛 591 | 🌐 C++ | 📅 2026-11-07 - the secure, private, untraceable cryptocurrency.
 * [Zcash](https://github.com/zcash/zcash) ⚠️ Archived - Zcash is a cryptocurrency aimed at using cryptography to provide enhanced privacy for its users compared to other cryptocurrencies such as Bitcoin.
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived - A permissioned implementation of Ethereum supporting data privacy.
-* [Litecoin](https://github.com/litecoin-project/litecoin) ⭐ 4,608 | 🐛 114 | 🌐 C++ | 📅 2026-10-22 - Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware.
+* [Litecoin](https://github.com/litecoin-project/litecoin) ⭐ 4,609 | 🐛 114 | 🌐 C++ | 📅 2026-10-22 - Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware.
 * [Dash](https://github.com/dashpay/dash) ⭐ 1,539 | 🐛 240 | 🌐 C++ | 📅 2026-11-06 - Dash is Digital Cash You Can Spend Anywhere.
 * [Microsoft SQL Tools Service](https://github.com/Microsoft/sqltoolsservice/) ⭐ 509 | 🐛 70 | 🌐 C# | 📅 2026-11-05 - SQL Query and Management over JSON-RPC.
 * [Tarantool](https://github.com/tarantool/nginx_upstream_module) ⭐ 173 | 🐛 29 | 🌐 C | 📅 2021-03-02 - Get your data in RAM. Get compute close to data. Enjoy the performance. (Provides nginx upstream module to support JSON-RPC)
