@@ -61,7 +61,7 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
   * [go-ethereum/rpc](https://godoc.org/github.com/ethereum/go-ethereum/rpc) - Package rpc implements bi-directional JSON-RPC 2.0 on multiple transports.
 
 * Python
-  * [pavlov99](https://github.com/pavlov99/json-rpc) ⭐ 488 | 🐛 25 | 🌐 Python | 📅 2025-03-17 - JSON-RPC 1/2 transport implementation. Supports python 2/3 and pypy.
+  * [pavlov99](https://github.com/pavlov99/json-rpc) ⭐ 488 | 🐛 47 | 🌐 Python | 📅 2026-11-09 - JSON-RPC 1/2 transport implementation. Supports python 2/3 and pypy.
 
 * PHP
   * [EvilScott/junior](https://github.com/EvilScott/junior) ⭐ 40 | 🐛 1 | 🌐 PHP | 📅 2026-04-18 - PHP client/server library for JSON-RPC 2.0
@@ -97,13 +97,13 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 #### Uses of JSON-RPC
 
-* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,203 | 🐛 313 | 🌐 C++ | 📅 2026-11-08 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
-* [Monero](https://github.com/monero-project/monero) ⭐ 10,986 | 🐛 605 | 🌐 C++ | 📅 2026-11-07 - the secure, private, untraceable cryptocurrency.
+* [Dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,205 | 🐛 310 | 🌐 C++ | 📅 2026-11-09 - Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo.
+* [Monero](https://github.com/monero-project/monero) ⭐ 10,986 | 🐛 598 | 🌐 C++ | 📅 2026-11-09 - the secure, private, untraceable cryptocurrency.
 * [Zcash](https://github.com/zcash/zcash) ⚠️ Archived - Zcash is a cryptocurrency aimed at using cryptography to provide enhanced privacy for its users compared to other cryptocurrencies such as Bitcoin.
 * [Quorum](https://github.com/jpmorganchase/quorum) ⚠️ Archived - A permissioned implementation of Ethereum supporting data privacy.
-* [Litecoin](https://github.com/litecoin-project/litecoin) ⭐ 4,612 | 🐛 114 | 🌐 C++ | 📅 2026-10-22 - Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware.
-* [Dash](https://github.com/dashpay/dash) ⭐ 1,539 | 🐛 242 | 🌐 C++ | 📅 2026-11-06 - Dash is Digital Cash You Can Spend Anywhere.
-* [Microsoft SQL Tools Service](https://github.com/Microsoft/sqltoolsservice/) ⭐ 509 | 🐛 70 | 🌐 C# | 📅 2026-11-05 - SQL Query and Management over JSON-RPC.
+* [Litecoin](https://github.com/litecoin-project/litecoin) ⭐ 4,613 | 🐛 114 | 🌐 C++ | 📅 2026-10-22 - Litecoin is a cryptocurrency that enables instant payments to anyone in the world and that can be efficiently mined with consumer-grade hardware.
+* [Dash](https://github.com/dashpay/dash) ⭐ 1,539 | 🐛 245 | 🌐 C++ | 📅 2026-11-09 - Dash is Digital Cash You Can Spend Anywhere.
+* [Microsoft SQL Tools Service](https://github.com/Microsoft/sqltoolsservice/) ⭐ 509 | 🐛 71 | 🌐 C# | 📅 2026-11-09 - SQL Query and Management over JSON-RPC.
 * [Tarantool](https://github.com/tarantool/nginx_upstream_module) ⭐ 173 | 🐛 29 | 🌐 C | 📅 2021-03-02 - Get your data in RAM. Get compute close to data. Enjoy the performance. (Provides nginx upstream module to support JSON-RPC)
 * [Ethereum Classic](https://github.com/ethereumproject/wiki/wiki/JSON-RPC) ⚠️ Archived - Ethereum Classic is an open-source, public, blockchain-based distributed computing platform featuring smart contract (scripting) functionality that was a result of the DAO fork.
 * [Arm mbed IoT Platform](https://cloud.mbed.com/docs/current/connecting/json-rpc.html#protocol-translator-register) - Arm Mbed OS together with the Pelion IoT Platform provide a transformative device-to-data platform for connected IoT that empowers an intelligent enterprise.
@@ -122,4 +122,4 @@ JSON-RPC is a remote procedure call protocol used by microservices, IoT and cryp
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
