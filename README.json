@@ -262,8 +262,8 @@
                 "id": 70068232,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-05T14:23:27Z",
-                "open_issues": 32,
+                "last_commit": "2026-11-10T19:38:20Z",
+                "open_issues": 31,
                 "owner": "microsoft",
                 "repo": "vs-streamjsonrpc",
                 "stars": 943,
@@ -294,7 +294,7 @@
                 "open_issues": 0,
                 "owner": "Astn",
                 "repo": "JSON-RPC.NET",
-                "stars": 328,
+                "stars": 327,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
@@ -315,7 +315,7 @@
                 "open_issues": 10,
                 "owner": "edjCase",
                 "repo": "JsonRpc",
-                "stars": 145,
+                "stars": 144,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:31:14.850Z"
@@ -433,10 +433,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-09T20:26:01Z",
-                "open_issues": 47,
+                "open_issues": 46,
                 "owner": "pavlov99",
                 "repo": "json-rpc",
-                "stars": 488,
+                "stars": 489,
                 "topics": [
                   "json-rpc",
                   "python"
@@ -714,7 +714,7 @@
                     "open_issues": 310,
                     "owner": "dogecoin",
                     "repo": "dogecoin",
-                    "stars": 15205,
+                    "stars": 15207,
                     "topics": [
                       "cryptocurrency",
                       "dogecoin",
@@ -736,10 +736,10 @@
                     "language": "C++",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-09T20:39:52Z",
-                    "open_issues": 598,
+                    "open_issues": 606,
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 10986,
+                    "stars": 10989,
                     "topics": [
                       "blockchain",
                       "c-plus-plus",
@@ -826,7 +826,7 @@
                     "open_issues": 114,
                     "owner": "litecoin-project",
                     "repo": "litecoin",
-                    "stars": 4613,
+                    "stars": 4616,
                     "topics": [
                       "cryptocurrency",
                       "litecoin"
@@ -846,8 +846,8 @@
                     "id": 19352450,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-11-09T20:55:09Z",
-                    "open_issues": 245,
+                    "last_commit": "2026-11-10T22:20:05Z",
+                    "open_issues": 247,
                     "owner": "dashpay",
                     "repo": "dash",
                     "stars": 1539,
@@ -877,8 +877,8 @@
                     "id": 63441273,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-09T22:03:44Z",
-                    "open_issues": 71,
+                    "last_commit": "2026-11-10T19:13:09Z",
+                    "open_issues": 72,
                     "owner": "microsoft",
                     "repo": "sqltoolsservice",
                     "stars": 509,
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:56:52.994Z",
+    "last_updated": "2026-11-11T00:55:00.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of JSON-RPC resources.",
