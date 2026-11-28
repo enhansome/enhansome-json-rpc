@@ -735,11 +735,11 @@
                     "id": 19316619,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-25T17:44:10Z",
-                    "open_issues": 572,
+                    "last_commit": "2026-11-27T21:11:12Z",
+                    "open_issues": 561,
                     "owner": "monero-project",
                     "repo": "monero",
-                    "stars": 11019,
+                    "stars": 11022,
                     "topics": [
                       "blockchain",
                       "c-plus-plus",
@@ -846,8 +846,8 @@
                     "id": 19352450,
                     "language": "C++",
                     "license": "MIT",
-                    "last_commit": "2026-11-26T22:19:46Z",
-                    "open_issues": 260,
+                    "last_commit": "2026-11-27T18:45:20Z",
+                    "open_issues": 266,
                     "owner": "dashpay",
                     "repo": "dash",
                     "stars": 1539,
@@ -952,7 +952,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T03:17:07.875Z",
+    "last_updated": "2026-11-28T02:57:41.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of JSON-RPC resources.",
